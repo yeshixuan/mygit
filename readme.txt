@@ -1,2 +1,2 @@
 This is a new file
-new word
+new word Git is a free software
